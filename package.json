@@ -3,6 +3,7 @@
     "start": "servor --reload"
   },
   "dependencies": {
+    "crypto-js": "^4.2.0",
     "servor": "^4.0.2"
   }
 }
